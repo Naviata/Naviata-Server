@@ -1,7 +1,10 @@
 <img src="https://i.imgur.com/WWn22Rr.png" width="100">
 
-# Naviata-Server
-All necessary information and files for hosting Naviata on your own DayZ Standalone server.
+# Naviata Server Files
+
+Welcome to the Naviata Server Files repository.
+
+This repository contains all the necessary information and files for hosting Naviata on your own DayZ Standalone server.
 
 # Server Installation
 **Basics**
